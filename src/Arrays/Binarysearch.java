@@ -1,5 +1,4 @@
 package Arrays;
-
 public class Binarysearch {
     static int binarySearch(int []arr,int target){
         int l=0;
@@ -15,7 +14,6 @@ public class Binarysearch {
         }
         return -1;
     }
-
     public static void main(String[] args) {
         int arr[]={10,20,30,40,50,60};
         int target=40;
