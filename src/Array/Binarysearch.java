@@ -1,4 +1,4 @@
-package Arrays;
+package Array;
 public class Binarysearch {
     static int binarySearch(int []arr,int target){
         int l=0;
